@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C4AE0CDB234A1AAB00CBB535 /* Register.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C4AE0CDA234A1AAB00CBB535 /* Register.storyboard */; };
+		C4AE0CDD234A2B7100CBB535 /* RegisterNowViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4AE0CDC234A2B7100CBB535 /* RegisterNowViewController.swift */; };
 		C4B02D28234731AF00646D02 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4B02D27234731AF00646D02 /* AppDelegate.swift */; };
 		C4B02D2A234731AF00646D02 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4B02D29234731AF00646D02 /* SceneDelegate.swift */; };
 		C4B02D2C234731AF00646D02 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4B02D2B234731AF00646D02 /* ContentView.swift */; };
@@ -27,6 +29,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C4AE0CDA234A1AAB00CBB535 /* Register.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Register.storyboard; sourceTree = "<group>"; };
+		C4AE0CDC234A2B7100CBB535 /* RegisterNowViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterNowViewController.swift; sourceTree = "<group>"; };
 		C4B02D24234731AF00646D02 /* BloodDonate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BloodDonate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C4B02D27234731AF00646D02 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C4B02D29234731AF00646D02 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -84,8 +88,10 @@
 				C4B02D2B234731AF00646D02 /* ContentView.swift */,
 				C4B02D2D234731B300646D02 /* Assets.xcassets */,
 				C4B02D32234731B300646D02 /* LaunchScreen.storyboard */,
+				C4AE0CDA234A1AAB00CBB535 /* Register.storyboard */,
 				C4B02D35234731B300646D02 /* Info.plist */,
 				C4B02D2F234731B300646D02 /* Preview Content */,
+				C4AE0CDC234A2B7100CBB535 /* RegisterNowViewController.swift */,
 			);
 			path = BloodDonate;
 			sourceTree = "<group>";
@@ -191,6 +197,7 @@
 				C4B02D34234731B300646D02 /* LaunchScreen.storyboard in Resources */,
 				C4B02D31234731B300646D02 /* Preview Assets.xcassets in Resources */,
 				C4B02D2E234731B300646D02 /* Assets.xcassets in Resources */,
+				C4AE0CDB234A1AAB00CBB535 /* Register.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -210,6 +217,7 @@
 			files = (
 				C4B02D28234731AF00646D02 /* AppDelegate.swift in Sources */,
 				C4B02D2A234731AF00646D02 /* SceneDelegate.swift in Sources */,
+				C4AE0CDD234A2B7100CBB535 /* RegisterNowViewController.swift in Sources */,
 				C4B02D2C234731AF00646D02 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

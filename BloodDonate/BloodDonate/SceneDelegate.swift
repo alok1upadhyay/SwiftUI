@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  BloodDonate
 //
-//  Created by Haider Khan on 10/4/19.
+//  Created by Alok Upadhyay on 10/4/19.
 //  Copyright © 2019 iOSDose.Alok. All rights reserved.
 //
 
