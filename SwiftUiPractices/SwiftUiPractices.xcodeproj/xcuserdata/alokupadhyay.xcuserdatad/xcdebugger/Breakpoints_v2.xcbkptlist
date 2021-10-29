@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D838653D-0EF8-4C5F-8BC3-2F2D09B1D83F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BA903738-EB18-4663-B38F-6223D6B883F8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUiPractices/CounterModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "addTodo(todo:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "93AD8290-E149-4CD9-AE93-5963AB1C76F1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUiPractices/CounterViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "increment()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "45CB37C2-C268-4C89-9AE6-E1E7AAC05115"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUiPractices/CounterViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "CounterModel"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "45CB37C2-C268-4C89-9AE6-E1E7AAC05115 - 13d87117fe4adf34"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of SwiftUiPractices.CounterModel.count : Swift.Int"
+                  moduleName = "SwiftUiPractices"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alokupadhyay/Desktop/SwiftUiPractices/SwiftUiPractices/CounterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "45CB37C2-C268-4C89-9AE6-E1E7AAC05115 - 53e4c3deceff00de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftUiPractices.CounterModel.count.getter : Swift.Int"
+                  moduleName = "SwiftUiPractices"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alokupadhyay/Desktop/SwiftUiPractices/SwiftUiPractices/CounterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "45CB37C2-C268-4C89-9AE6-E1E7AAC05115 - dea7079fd45c54ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftUiPractices.CounterModel.count.setter : Swift.Int"
+                  moduleName = "SwiftUiPractices"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alokupadhyay/Desktop/SwiftUiPractices/SwiftUiPractices/CounterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "45CB37C2-C268-4C89-9AE6-E1E7AAC05115 - e0f5b484e93a634c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftUiPractices.CounterModel.count.modify : Swift.Int"
+                  moduleName = "SwiftUiPractices"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alokupadhyay/Desktop/SwiftUiPractices/SwiftUiPractices/CounterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "45CB37C2-C268-4C89-9AE6-E1E7AAC05115 - c35d0a07f2fdafca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftUiPractices.CounterModel.count.modify : Swift.Int with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "SwiftUiPractices"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alokupadhyay/Desktop/SwiftUiPractices/SwiftUiPractices/CounterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "34">
+               </Location>
+               <Location
+                  uuid = "45CB37C2-C268-4C89-9AE6-E1E7AAC05115 - 9d7793984e9ba3e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftUiPractices.CounterModel.$count.getter : Combine.Published&lt;Swift.Int&gt;.Publisher"
+                  moduleName = "SwiftUiPractices"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alokupadhyay/Desktop/SwiftUiPractices/SwiftUiPractices/CounterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "110">
+               </Location>
+               <Location
+                  uuid = "45CB37C2-C268-4C89-9AE6-E1E7AAC05115 - baa3f958c555bed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftUiPractices.CounterModel.$count.setter : Combine.Published&lt;Swift.Int&gt;.Publisher"
+                  moduleName = "SwiftUiPractices"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alokupadhyay/Desktop/SwiftUiPractices/SwiftUiPractices/CounterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "233">
+               </Location>
+               <Location
+                  uuid = "45CB37C2-C268-4C89-9AE6-E1E7AAC05115 - 43de8e6836adf828"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftUiPractices.CounterModel.$count.modify : Combine.Published&lt;Swift.Int&gt;.Publisher"
+                  moduleName = "SwiftUiPractices"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alokupadhyay/Desktop/SwiftUiPractices/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "50">
+               </Location>
+               <Location
+                  uuid = "45CB37C2-C268-4C89-9AE6-E1E7AAC05115 - 80242f12af6e60ac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftUiPractices.CounterModel.$count.modify : Combine.Published&lt;Swift.Int&gt;.Publisher with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "SwiftUiPractices"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alokupadhyay/Desktop/SwiftUiPractices/SwiftUiPractices/CounterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "17">
+               </Location>
+               <Location
+                  uuid = "45CB37C2-C268-4C89-9AE6-E1E7AAC05115 - e2cf889739198303"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftUiPractices.CounterModel.init() -&gt; SwiftUiPractices.CounterModel"
+                  moduleName = "SwiftUiPractices"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alokupadhyay/Desktop/SwiftUiPractices/SwiftUiPractices/CounterViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "65">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1608ED32-8DFA-4378-B138-9307507E7C31"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUiPractices/CounterViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "increment()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00C3F0F0-8F6E-4F1F-BFA8-8925C3EBF8F5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUiPractices/TodoApiViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "fetch()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3EEEACCF-A434-49F8-A67F-C879E0AB74A1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUiPractices/TodoApiViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "fetch()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C0FF08D7-0F0F-4DBE-96A0-AF221BB2E0E4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUiPractices/TodoApiViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "fetch()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C0FF08D7-0F0F-4DBE-96A0-AF221BB2E0E4 - 5270fbf72e4a1a31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SwiftUiPractices.TodoApiViewModel.fetch() -&gt; ()"
+                  moduleName = "SwiftUiPractices"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alokupadhyay/Desktop/SwiftUiPractices/SwiftUiPractices/TodoApiViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "1361">
+               </Location>
+               <Location
+                  uuid = "C0FF08D7-0F0F-4DBE-96A0-AF221BB2E0E4 - 99d2c99f5abd62d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Combine.Subscribers.Completion&lt;Swift.Error&gt;) -&gt; () in SwiftUiPractices.TodoApiViewModel.fetch() -&gt; ()"
+                  moduleName = "SwiftUiPractices"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alokupadhyay/Desktop/SwiftUiPractices/SwiftUiPractices/TodoApiViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "582">
+               </Location>
+               <Location
+                  uuid = "C0FF08D7-0F0F-4DBE-96A0-AF221BB2E0E4 - 7bddeec105e989b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Array&lt;SwiftUiPractices.TodoModel&gt;) -&gt; () in SwiftUiPractices.TodoApiViewModel.fetch() -&gt; ()"
+                  moduleName = "SwiftUiPractices"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alokupadhyay/Desktop/SwiftUiPractices/SwiftUiPractices/TodoApiViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "42">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8472B66F-784D-4AA9-8B5B-31D77F455C25"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUiPractices/TodoApiViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "fetch()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4E2EDF45-D86F-499E-AD40-1B45A78728E5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUiPractices/TodoApiViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "fetch()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C43CD69-7D65-4FBB-AEA4-53CBC540D814"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUiPractices/TodoApiViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "fetch()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F71831B5-7189-4FF0-9E35-FAD21289AE28"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUiPractices/TodoApiViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "fetch()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
